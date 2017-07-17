@@ -1,0 +1,12 @@
+# visual studio code
+.vsc
+# NPM
+node_modules
+npm-*.log
+
+# OS X
+.DS_Store
+
+# build
+es
+lib
